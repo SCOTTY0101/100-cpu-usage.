@@ -1,0 +1,4 @@
+//100% cpu usage. Test maxing out your cpu/browser.
+while (1) {
+  console.log('Hi');
+ };
